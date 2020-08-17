@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Address</string>
+    <string name="txtAddress">Введите адрес</string>
+    <string-array name="spinnerCountry">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+</string-array>
+    <string-array name="r_spinnerCity">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_spinnerCity">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_spinnerCity">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+
+    <string name="buttonOk">Ок</string>
+</resources>
